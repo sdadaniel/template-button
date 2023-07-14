@@ -1,0 +1,19 @@
+{
+  "name": "template-button",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "rollup": "npx rollup -c "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "rollup": "^3.26.2",
+    "typescript": "^5.1.6"
+  }
+}
